@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1005]C:\Users\Mikki\Documents\Visual Studio 2010\Projects\NUnitTest_Circle\NUnitTest_Circle\bin\Debug\NUnitTest_Circle.dll</TopNode>
+  <SelectedNode>[0-1005]C:\Users\Mikki\Documents\Visual Studio 2010\Projects\NUnitTest_Circle\NUnitTest_Circle\bin\Debug\NUnitTest_Circle.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1005]C:\Users\Mikki\Documents\Visual Studio 2010\Projects\NUnitTest_Circle\NUnitTest_Circle\bin\Debug\NUnitTest_Circle.dll" Expanded="true" />
+    <Node UniqueName="[0-1006]NUnitTest_Circle" Expanded="true" />
+    <Node UniqueName="[0-1000]NUnitTest_Circle.CircleTest" Expanded="true" />
+  </Nodes>
+</VisualState>

@@ -1,0 +1,6 @@
+c:\users\mikki\documents\visual studio 2010\Projects\NUnitTest_Circle\NUnitTest_Circle\bin\Debug\NUnitTest_Circle.dll
+c:\users\mikki\documents\visual studio 2010\Projects\NUnitTest_Circle\NUnitTest_Circle\bin\Debug\NUnitTest_Circle.pdb
+c:\users\mikki\documents\visual studio 2010\Projects\NUnitTest_Circle\NUnitTest_Circle\bin\Debug\nunit.framework.dll
+c:\users\mikki\documents\visual studio 2010\Projects\NUnitTest_Circle\NUnitTest_Circle\obj\Debug\ResolveAssemblyReference.cache
+c:\users\mikki\documents\visual studio 2010\Projects\NUnitTest_Circle\NUnitTest_Circle\obj\Debug\NUnitTest_Circle.dll
+c:\users\mikki\documents\visual studio 2010\Projects\NUnitTest_Circle\NUnitTest_Circle\obj\Debug\NUnitTest_Circle.pdb
